@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gocireadr.github.io/sitemap.html.gz
+Sitemap: https://gocireadr.github.io/app/sitemap.html.gz
+Sitemap: https://gocireadr.github.io/assets/sitemap.html.gz
+Sitemap: https://gocireadr.github.io/css/sitemap.html.gz
+Sitemap: https://gocireadr.github.io/includes/sitemap.html.gz
+Sitemap: https://gocireadr.github.io/item/sitemap.html.gz
+Sitemap: https://gocireadr.github.io/src/sitemap.html.gz
